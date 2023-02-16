@@ -1,1 +1,2 @@
-ini file tekss
+hello world saja3
+4
